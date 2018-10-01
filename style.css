@@ -9,6 +9,15 @@
     background-size: cover;
     background-position: center center;
   }
+
+
+  .takeover{
+    width: 100%;
+    height: 300px;
+    background-color: grey;
+    /* display: none; */
+  }
+  
   .logo-wrapper{
     position: relative;
     display: inline-block;
@@ -179,13 +188,7 @@
     padding: 10px;
     border: none;
   }
-  .takeover{
-    width: 100%;
-    height: 300px;
-    background-color: grey;
-    display: none;
-  }
-  
+
   
 /* ANNOUNCEMENTS ---------- */
   .main-content{
